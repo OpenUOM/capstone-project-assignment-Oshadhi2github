@@ -10,7 +10,3 @@ export class AppComponent {
   title = 'capstone-frontend';
   // faCoffee = faCoffee;
 }
-
-
-
-
